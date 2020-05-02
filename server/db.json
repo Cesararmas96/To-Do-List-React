@@ -1,0 +1,172 @@
+{
+	"todos": [
+		{
+			"id": "39198bda-32de-4f88-b9a0-ee9b4417c384",
+			"title": "Central Group Designer",
+			"responsible": "Vinnie  Hartmann",
+			"description": "Investor Marketing Strategist",
+			"priority": "High"
+		},
+		{
+			"id": "415eb22a-9488-47dd-b7d9-0e52f5425436",
+			"title": "National Communications Developer",
+			"responsible": "Jed  Hagenes",
+			"description": "Future Usability Producer",
+			"priority": "Medium"
+		},
+		{
+			"id": "8fcb0f07-13ae-4b4b-a5cc-7e343e15908a",
+			"title": "Human Quality Strategist",
+			"responsible": "Kaitlin  Flatley",
+			"description": "Dynamic Applications Orchestrator",
+			"priority": "Low"
+		},
+		{
+			"id": "dc28a8af-d304-4755-9602-7fa49b747123",
+			"title": "Internal Accounts Supervisor",
+			"responsible": "Eduardo  Stracke",
+			"description": "Dynamic Brand Technician",
+			"priority": "High"
+		},
+		{
+			"id": "9809772c-2026-4abd-a493-b19893f5b57a",
+			"title": "International Configuration Assistant",
+			"responsible": "Wayne  O'Connell",
+			"description": "Future Metrics Producer",
+			"priority": "Medium"
+		},
+		{
+			"id": "5cb4e6bf-0865-4930-8991-e97048f1d28b",
+			"title": "Future Division Representative",
+			"responsible": "Everett  Rau",
+			"description": "Lead Data Consultant",
+			"priority": "Medium"
+		},
+		{
+			"id": "dbe1cb20-2981-4ca0-a145-3ba7dc0a9c85",
+			"title": "Legacy Directives Strategist",
+			"responsible": "Avery  MacGyver",
+			"description": "Investor Group Assistant",
+			"priority": "High"
+		},
+		{
+			"id": "e7693c87-009f-472b-a2b9-c6ffb66f0197",
+			"title": "Legacy Creative Strategist",
+			"responsible": "Kiera  Gusikowski",
+			"description": "Central Assurance Supervisor",
+			"priority": "Medium"
+		},
+		{
+			"id": "66e06b03-5fcb-4f8c-97e2-73a5020860ba",
+			"title": "National Assurance Analyst",
+			"responsible": "Joanny  Moen",
+			"description": "Dynamic Intranet Agent",
+			"priority": "High"
+		},
+		{
+			"id": "24b3ac68-1a18-4756-aa73-fbe007e81995",
+			"title": "Corporate Quality Associate",
+			"responsible": "Armando  Will",
+			"description": "Dynamic Group Director",
+			"priority": "Medium"
+		},
+		{
+			"id": "9cd98024-4a9f-4ea7-a5e0-71ad2e59e140",
+			"title": "Regional Division Strategist",
+			"responsible": "Edison  Hayes",
+			"description": "National Functionality Developer",
+			"priority": "Medium"
+		},
+		{
+			"id": "db52fe20-b6d0-4269-afd3-f47e99960017",
+			"title": "Central Implementation Director",
+			"responsible": "Myah  Adams",
+			"description": "Customer Infrastructure Strategist",
+			"priority": "High"
+		},
+		{
+			"id": "554ebae4-3141-46f9-bae1-a917f4d2f1c9",
+			"title": "Dynamic Identity Representative",
+			"responsible": "Bennett  Bashirian",
+			"description": "Corporate Security Engineer",
+			"priority": "High"
+		},
+		{
+			"id": "fd2cc321-02e2-4325-ab5d-6559bf815075",
+			"title": "Chief Research Executive",
+			"responsible": "Ana  Glover",
+			"description": "Dynamic Creative Facilitator",
+			"priority": "Low"
+		},
+		{
+			"id": "000d13c3-82e2-4b1a-827e-56faaf29880c",
+			"title": "Direct Applications Architect",
+			"responsible": "Juanita  Medhurst",
+			"description": "Legacy Assurance Agent",
+			"priority": "High"
+		},
+		{
+			"id": "e20e7e4e-649c-40b3-9c6a-92c7717d509e",
+			"title": "Future Program Supervisor",
+			"responsible": "Lilla  Monahan",
+			"description": "Senior Creative Specialist",
+			"priority": "High"
+		},
+		{
+			"id": "a227b090-d283-4b27-9c45-7d27c799c2cd",
+			"title": "National Tactics Administrator",
+			"responsible": "Rory  Morissette",
+			"description": "Lead Interactions Producer",
+			"priority": "High"
+		},
+		{
+			"id": "c0f8e838-0c0a-4e4e-a57b-5aff0a1da87f",
+			"title": "Legacy Configuration Consultant",
+			"responsible": "Mathew  Prohaska",
+			"description": "Future Program Developer",
+			"priority": "High"
+		},
+		{
+			"id": "18fdd450-64b8-44db-b079-0a8062360688",
+			"title": "Internal Web Producer",
+			"responsible": "Amparo  Quigley",
+			"description": "International Usability Assistant",
+			"priority": "Low"
+		},
+		{
+			"id": "8fe42c05-94c1-49bf-a1f8-dea10bdd4617",
+			"title": "Regional Data Strategist",
+			"responsible": "Virginia  Corwin",
+			"description": "Lead Response Coordinator",
+			"priority": "Low"
+		},
+		{
+			"id": "7d51872b-c763-49c4-af4d-0167f7e703ce",
+			"title": "Customer Brand Orchestrator",
+			"responsible": "Mortimer  Kulas",
+			"description": "Product Usability Executive",
+			"priority": "Medium"
+		},
+		{
+			"id": "79f9a9e5-fb9f-458c-99d4-5a95ca562548",
+			"title": "Regional Program Planner",
+			"responsible": "Loyce  Mayer",
+			"description": "Legacy Security Coordinator",
+			"priority": "Medium"
+		},
+		{
+			"id": "0e240006-3cbb-474d-9ce4-f304bb545b02",
+			"title": "National Paradigm Associate",
+			"responsible": "Amalia  White",
+			"description": "Corporate Tactics Planner",
+			"priority": "Medium"
+		},
+		{
+			"id": "0674af3c-678a-444f-906e-38cc6f9ef8de",
+			"title": "Principal Mobility Consultant",
+			"responsible": "Emery  Gottlieb",
+			"description": "Future Solutions Officer",
+			"priority": "High"
+		}
+	]
+}
