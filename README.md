@@ -4,8 +4,14 @@
 
 ## Preview
 
-[![Home](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png "Shiprock, New Mexico by Beau Rogers")](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png)
+### Home
+[![Home](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png)]
 
+### Edit
+[![Edit](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Edit.png)]
+
+### Delete
+[![Delete](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Delete.png)]
 
 ## Operations
 
