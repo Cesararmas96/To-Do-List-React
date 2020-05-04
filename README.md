@@ -1,6 +1,6 @@
 # To-Do-List-React
 
-![alt text](public/img/screenshots/reduction-admin.jpg?raw=true "React Reduction")
+(https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png "React Reduction")
 
 ## Preview
 
