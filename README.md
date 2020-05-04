@@ -5,13 +5,15 @@
 ## Preview
 
 ### Home
-[![Home](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png)]
+(https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Home.png "Home")
+
+(https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 ### Edit
-[![Edit](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Edit.png)]
+(https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Edit.png "Edit")
 
 ### Delete
-[![Delete](https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Delete.png)]
+(https://github.com/caal2096/To-Do-List-React/blob/master/src/assets/Delet.png "Delet")
 
 ## Operations
 
