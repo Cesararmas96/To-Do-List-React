@@ -10,7 +10,7 @@
 		"react-bootstrap-sweetalert": "^5.1.9",
 		"react-dom": "^16.8.6",
 		"react-router-dom": "^5.0.1",
-		"react-scripts": "3.0.1"
+		"react-scripts": "5.0.1"
 	},
 	"scripts": {
 		"start": "npm-run-all -p client server",
